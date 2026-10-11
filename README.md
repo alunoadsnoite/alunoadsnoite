@@ -2,11 +2,13 @@
   
 Este repositório contém o resumo dos meus aprendizados ou projetos...
 
-- 👀 Eu sou interessado em tecnologia e linux...
-- 🌱 Eu estou fazendo curso de Análise e Desenvolvimento de Sistemas na Unibra em Recife Pernambuco...
+- 👀 Eu fiz Odontologia pela UFPE
+- 🌱 Eu fiz Análise e Desenvolvimento de Sistemas na Unibra
+
+
 - 💞️ Eu posso colabar em algo?
 
-- 📞 +5581988353131
-- 📧 alunoadsnoite@gmail.com 
+- 📞 whatsapp +5581988353131
+- 📧 valdenorsa@proton.me
 
 <!---
