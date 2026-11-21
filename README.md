@@ -43,3 +43,20 @@ Kotlin · Jetpack Compose · Flutter · Dart · React Native · TypeScript · Go
 ## Colabore
 
 Relatos de problemas, traduções e sugestões ajudam os projetos a evoluir. Abra uma issue no repositório correspondente, com uma descrição e passos para reproduzir. Para conversar sobre colaboração ou oportunidades profissionais: [valdenorsa@proton.me](mailto:valdenorsa@proton.me).
+
+## Apoie os projetos
+
+As doações são voluntárias e ajudam a manter o desenvolvimento dos aplicativos livres.
+
+| Forma | Como contribuir |
+|---|---|
+| Pix | Copie a chave aleatória abaixo e use a opção Pix do seu banco |
+| GitHub Sponsors | [Apoiar pelo GitHub](https://github.com/sponsors/alunoadsnoite) |
+
+**Chave Pix:**
+
+```text
+81063e93-0c1b-4ddb-8a16-b9be68a75d4e
+```
+
+Confira os dados do destinatário no aplicativo do banco antes de confirmar a transferência.
