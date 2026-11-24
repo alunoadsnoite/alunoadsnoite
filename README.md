@@ -1,10 +1,12 @@
 # Valdenor Tavares
 
-**Desenvolvedor de aplicativos Android e ferramentas em Go.**
+**Valdenor Tavares (alunoadsnoite) — desenvolvedor de aplicativos Android e ferramentas em Go.**
 
 Formado em Análise e Desenvolvimento de Sistemas pela UNIBRA e em Odontologia pela UFPE. Desenvolvo software livre com foco em acessibilidade, autonomia e soluções práticas para o dia a dia.
 
 [Contato por e-mail](mailto:valdenorsa@proton.me) · [Meus repositórios](https://github.com/alunoadsnoite?tab=repositories)
+
+Crio aplicativos Android para pessoas com transtorno do espectro autista (TEA), comunicação aumentativa e alternativa (CAA), organização pessoal e estudos para concursos públicos. Abaixo estão os projetos, com links diretos para o código-fonte e a documentação.
 
 ## Aplicativos para a comunidade autista
 
@@ -18,13 +20,21 @@ Formado em Análise e Desenvolvimento de Sistemas pela UNIBRA e em Odontologia p
 | [TEA Descomplica](https://github.com/alunoadsnoite/teadescomplica-public) | Prepare situações, planeje alternativas e registre o que ajuda. | Kotlin · Jetpack Compose · Room |
 | [HiperFoco](https://github.com/alunoadsnoite/HiperFoco) | Transforme seus interesses em universos de conhecimento. | Kotlin · Jetpack Compose · Room |
 
-## Organização, estudos e saúde
+## Estudos para concursos públicos
+
+| Projeto | Para que serve | Tecnologia |
+|---|---|---|
+| [INSSAprova — app de estudos offline para o INSS](https://github.com/alunoadsnoite/INSSAprova) | Aplicativo Android para estudar para o concurso do INSS, responder questões e consultar gabaritos com explicações. | Kotlin · Jetpack Compose · Room |
+| [RevisaCiclo — organização de estudos e revisões](https://github.com/alunoadsnoite/RevisaCiclo) | Organize seus estudos e saiba o que revisar a cada dia. | Android |
+
+O INSSAprova é um projeto independente, sem vínculo com o INSS ou com o Governo Federal. Consulte a [documentação do INSSAprova](https://github.com/alunoadsnoite/INSSAprova#readme) para compilação e distribuição.
+
+## Organização e saúde
 
 | Projeto | Para que serve |
 |---|---|
 | [FocusFeed](https://github.com/alunoadsnoite/FocusFeed) | Organize períodos de foco e pausas com recompensa de tempo. |
 | [Onde Guardei?](https://github.com/alunoadsnoite/onde-guardei) | Lembre onde guardou cada objeto, com fotos e busca por local. |
-| [RevisaCiclo](https://github.com/alunoadsnoite/RevisaCiclo) | Organize seus estudos e saiba o que revisar a cada dia. |
 | [OdontoLivreVal](https://github.com/alunoadsnoite/OdontoLivreVal) | Organização odontológica offline, em desenvolvimento e validação. |
 
 O OdontoLivreVal está em desenvolvimento e validação com dados fictícios; não está declarado pronto para uso clínico. Consulte o README de cada projeto para conhecer o estágio de desenvolvimento, as plataformas e a distribuição.
